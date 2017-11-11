@@ -1,11 +1,11 @@
-#不能运行！！！
-
 # -*- coding: utf-8 -*-
 import numpy as np
 import cv2
 
 cap = cv2.VideoCapture(0)        #笔记本默认是0
-fourcc = cv2.cv.FOURCC(*'XVID')
+
+#下面一个函数在cv3.0版本和2.0版本不同
+fourcc = cv2.VideoWriter_fourcc(* 'XVID')
 out = cv2.VideoWriter('xx.avi',fourcc,20.0,(640,480))
 
 while (cap.isOpened()):
