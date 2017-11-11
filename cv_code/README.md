@@ -10,7 +10,6 @@
 -------
 <h2 id="1">学习资源</h2>
 
-
 >- [官方文档(英文版)](http://opencv-python->tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_table_of_contents_se>tup/py_table_of_contents_setup.html#)
 >- [OpenCV安装包和电子书](http://pan.baidu.com/s/1qXASnko)
 -----------
@@ -31,7 +30,8 @@
 |cv6	|图像的矩、图像金字塔、边缘检测、轮廓、凸包     |
 ----------
 <h2 id="4">反馈与意见</h2>		
->	 邮箱: liuzijie23@gmail.com
+
+>	 邮箱: /<liuzijie23@gmail.com/>
 
 
 
