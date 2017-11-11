@@ -22,5 +22,5 @@ OpenCV 学习代码
 
 ----------
 ## 反馈与建议
-- 邮箱：<liuzijie@gmail.com>
+- 邮箱：<liuzijie23@gmail.com>
 
