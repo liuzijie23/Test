@@ -1,4 +1,4 @@
-#OpenCV 学习代码
+##OpenCV 学习代码
 >所有代码均改编自*《OpenCV官方教程中文版(For Python)》*
 >原教程中使用的是**Python2**，而本代码将其改编在**python3+OpenCV3**下运行，并加入了中文注释。希望和大家一起学习进步
 
