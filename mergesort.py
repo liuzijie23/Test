@@ -10,11 +10,11 @@ def Mergesort(arr):
     arr_b = Mergesort(arr[a:])
 
     while len(arr_c)<b:
-		'''
+        '''
 		先判断列表是否有一列表被删除完，
 		如果有先赋值后退出
-		'''
-		if len(arr_a)==0:
+        '''
+        if len(arr_a)==0:
             arr_c.extend(arr_b[:])
             break
         if len(arr_b)==0:
